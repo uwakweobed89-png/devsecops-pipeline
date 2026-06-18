@@ -1,0 +1,7 @@
+{
+  "amount": 500,
+  "currency": "USD",
+  "sender": "Alice",
+  "receiver": "Bob",
+  "description": "Invoice payment"
+}

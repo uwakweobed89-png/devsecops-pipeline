@@ -1,0 +1,7 @@
+{
+"amount": 15000,
+"currency": "USD",
+"sender": "Alice",
+"receiver": "Bob",
+"description": "Large transfer"
+}
